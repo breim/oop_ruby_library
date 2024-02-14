@@ -40,7 +40,7 @@ The test evaluates your ability to apply OOP principles in Ruby, including class
 Integration tests
 ```bash 
 ruby run.rb
-``
+```
 
 RSpec tests
 ```bash
