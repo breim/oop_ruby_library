@@ -37,4 +37,13 @@ This test is designed to assess intermediate Ruby programming skills, specifical
 
 The test evaluates your ability to apply OOP principles in Ruby, including class design, method definitions, instance variable management, error handling, and code organization and documentation.
 
-Good luck!
+Integration tests
+```bash 
+ruby run.rb
+``
+
+RSpec tests
+```bash
+rspec
+```
+
